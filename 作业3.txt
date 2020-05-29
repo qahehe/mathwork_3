@@ -1,0 +1,14 @@
+CINTA作业三，证明题，编程
+1，证明：让\ mathbb {G} $为一组，对于\ mathbb {G} $中的任意两个元素$ a，b \。然后，等式$ ax = b $和$ xa = b $在$ \ mathbb {G} $中具有唯一解。
+
+
+
+2，证明：让$ \ mathbb {G} $为一组，让$ a，b，c \ in \ mathbb {G} $为一组。那么$ ba = ca $意味着$ b = c $，而$ ab = ac $意味着$ b = c $。
+
+
+
+3，编写一个Python程序来计算Eurler的phi函数。也就是说，给定整数n，则返回Phi（n）。
+
+
+
+4，证明：令$ m = p_1 ^ {a_1} p_2 ^ {a_2} \ cdots p_k ^ {a_k} $，则$ \ phi（m）= m（1-1 / p_1）（1-1 / p_2） \ cdots（1-1-p_k）$。
